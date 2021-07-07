@@ -14,6 +14,6 @@ app.listen(PORT, () => {
 
     console.log("server on port" ${port});
     console.log("test branching");
-    console.log("test branching try merge access");
+    console.log("test branching try merge access with restriction");
     
 })
