@@ -15,5 +15,5 @@ app.listen(PORT, () => {
     console.log("server on port" ${port});
     console.log("test branching");
     console.log("test branching try merge access with restriction from Backend");
-    console.log("fix bug")
+    console.log("test branch security")
 })
